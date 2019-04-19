@@ -1,0 +1,7 @@
+#+TITLE: lola-mode
+#+SUBTITLE: A major mode for editing LoLA model check input files
+
+#+BEGIN_QUOTE
+This mode is under development since [15:44:49; 19.04.2019], it is
+then not yes complete at all.
+#+END_QUOTE
